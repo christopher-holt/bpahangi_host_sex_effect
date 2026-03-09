@@ -1,0 +1,69 @@
+﻿Gerbil ID,Old_Gerbil ID,Sex,Litter,DOB,Replicate #,Method of Exposure,Date exposed,Date Sacrificed,Days Post Infection at Necropsy,Date mf tested,Eye Tested,mf/20 μL,# Male,# Female,# Damaged,Total,Total # Males + Females,Notes,USDA 10/1/19-9/30/20
+F031_SQ_Bp,FBpSQ31,F ,Charles River Laboratory,7/28/2020,Rep 6 (SQ),Subcutaneous injection,10/28/2020,3/17/2021,140 dpi,03/04/2021,Right,0,0,0,0,0,0,,C
+F033_SQ_Bp,FBpSQ033,F ,Charles River Laboratory,7/28/2020,Rep 6 (SQ),Subcutaneous injection,10/28/2020,3/18/2021,141 dpi,03/04/2021,Right,0,0,0,0,0,0,,C
+F034_SQ_Bp,FBpSQ034,F ,Charles River Laboratory,7/28/2020,Rep 6 (SQ),Subcutaneous injection,10/28/2020,3/18/2021,141 dpi,03/04/2021,Right,0,0,0,0,0,0,,C
+F035_SQ_Bp,FBpSQ035,F ,Charles River Laboratory,7/28/2020,Rep 6 (SQ),Subcutaneous injection,10/28/2020,3/18/2021,141 dpi,03/04/2021,Right,0,0,0,0,0,0,,C
+F038_SQ_Bp,FBpSQ038,F ,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,3/24/2021,135 dpi,03/10/2021,Right,0,0,0,0,0,0,,C
+F039_SQ_Bp,FBpSQ039,F ,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,3/25/2021,136 dpi,03/10/2021,Right,0,0,0,0,0,0,,C
+F041_SQ_Bp,FBpSQ041,F ,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,3/25/2021,136 dpi,03/10/2021,Right,0,0,0,0,0,0,,C
+F030_SQ_Bp,FBpSQ30,F ,Charles River Laboratory,7/28/2020,Rep 6 (SQ),Subcutaneous injection,10/28/2020,3/17/2021,140 dpi,03/04/2021,Right,0,1,0,0,1,1,,C
+F036_SQ_Bp,FBpSQ036,F ,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,3/24/2021,135 dpi,03/10/2021,Right,0,1,0,0,1,1,,C
+M066_SQ_Bp,BpSQ66,M,Charles River Laboratory,7/28/2020,Rep 6 (SQ),Subcutaneous injection,10/28/2020,03/11/2021,134 dpi,03/04/2021,Right,5.3,0,1,0,1,1,,C
+F040_SQ_Bp,FBpSQ040,F ,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,3/25/2021,136 dpi,03/10/2021,Right,0,2,0,0,2,2,,C
+F042_SQ_Bp,FBpSQ042,F ,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,3/31/2021,142 dpi,03/10/2021,Right,0,2,0,0,2,2,,C
+M068_SQ_Bp,BpSQ68,M,Charles River Laboratory,7/28/2020,Rep 6 (SQ),Subcutaneous injection,10/28/2020,03/11/2021,134 dpi,03/04/2021,Right,3.3,0,2,2,2,2,,C
+F043_SQ_Bp,FBpSQ043,F ,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,3/31/2021,142 dpi,03/10/2021,Right,0,2,1,0,3,3,,C
+M070_SQ_Bp,BpSQ70,M,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,03/12/2021,123 dpi,03/10/2021,Right,0.5,1,2,2,3,3,,C
+M071_SQ_Bp,BpSQ71,M,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,03/12/2021,123 dpi,03/10/2021,Right,10.5,1,2,1,3,3,,C
+F044_SQ_Bp,FBpSQ044,F ,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,3/31/2021,142 dpi,03/10/2021,Right,1.5,3,1,1,4,4,,C
+M069_SQ_Bp,BpSQ69,M,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,03/12/2021,123 dpi,03/10/2021,Right,7,3,1,2,4,4,,C
+F032_SQ_Bp,FBpSQ32,F ,Charles River Laboratory,7/28/2020,Rep 6 (SQ),Subcutaneous injection,10/28/2020,3/17/2021,140 dpi,03/04/2021,Right,0,5,0,3,5,5,,C
+M067_SQ_Bp,BpSQ67,M,Charles River Laboratory,7/28/2020,Rep 6 (SQ),Subcutaneous injection,10/28/2020,03/11/2021,134 dpi,03/04/2021,Right,6,2,4,6,6,6,,C
+F037_SQ_Bp,FBpSQ037,F ,Charles River Laboratory,7/28/2020,Rep 7 (SQ),Subcutaneous injection,11/09/2020,3/24/2021,135 dpi,03/10/2021,Right,0,7,1,2,8,8,,C
+F028_SQ_Bp,FBpSQ028,F ,Litter #10,06/06/2019,Rep 5 (SQ),Subcutaneous injection,6/29/2020,03/03/2021,247 dpi,12/02/2020,Right,0,0,0,0,0,0,,C
+M064_SQ_Bp,BpSQ64,M,Litter #10,06/06/2019,Rep 5 (SQ),Subcutaneous injection,6/29/2020,2/17/2021,233 dpi,12/10/2020,Right,1,0,0,0,0,0,,C
+F029_SQ_Bp,FBpSQ029,F ,Litter #10,06/06/2019,Rep 5 (SQ),Subcutaneous injection,6/29/2020,03/03/2021,247 dpi,12/02/2020,Right,0,2,0,0,2,2,,C
+M065_SQ_Bp,BpSQ65,M,Litter #10,06/06/2019,Rep 5 (SQ),Subcutaneous injection,6/29/2020,2/17/2021,233 dpi,12/10/2020,Right,11,0,2,0,2,2,,C
+F021_SQ_Bp,FBpSQ021,F,Litter #11,06/12/2019,Rep 2 (SQ),Subcutaneous injection,12/23/2019,9/25/2020,278 dpi,7/27/2020,Right,0,0,0,0,0,0,,D
+M053_SQ_Bp,BpSQ53,M,Litter #11,06/12/2019,Rep 2 (SQ),Subcutaneous injection,12/23/2019,9/17/2020,270 dpi,7/27/2020,Right,0,0,0,0,0,0,,D
+M054_SQ_Bp,BpSQ54,M,Litter #11,06/12/2019,Rep 2 (SQ),Subcutaneous injection,12/23/2019,9/17/2020,270 dpi,7/27/2020,Right,0,0,0,0,0,0,,D
+M052_SQ_Bp,BpSQ52,M,Litter #11,06/12/2019,Rep 2 (SQ),Subcutaneous injection,12/23/2019,9/17/2020,270 dpi,7/27/2020,Right,2.5,0,1,0,1,1,,D
+F022_SQ_Bp,FBpSQ022,F ,Litter #11,06/12/2019,Rep 2 (SQ),Subcutaneous injection,12/23/2019,9/25/2020,278 dpi,7/27/2020,Right,0.5,1,1,2,2,2, (damaged while separating),D
+F024_SQ_Bp,FBpSQ024,F ,Litter #12,6/21/2019,Rep 3 (SQ),Subcutaneous injection,3/16/2020,9/18/2020,187 dpi,7/27/2020,Right,2.5,2,1,1,3,3,,D
+M056_SQ_Bp,BpSQ56,M,Litter #12,6/21/2019,Rep 3 (SQ),Subcutaneous injection,3/16/2020,09/09/2020,178 dpi,7/27/2020,Right,10,1,3,1,4,4,,D
+M055_SQ_Bp,BpSQ55,M,Litter #12,6/21/2019,Rep 3 (SQ),Subcutaneous injection,3/16/2020,09/09/2020,178 dpi,7/27/2020,Right,18,2,2,0,4,4,,D
+M023_SQ_Bp,FBpSQ023,F ,Litter #12,6/21/2019,Rep 3 (SQ),Subcutaneous injection,3/16/2020,8/23/2020,** Euthanized due to abnormal clinical signs**,7/27/2020,Right,5.5,N/A,N/A,N/A,N/A,N/A,,D
+F026_SQ_Bp,FBpSQ026,F ,Litter #13,6/23/2019,Rep 4 (SQ),Subcutaneous injection,6/22/2020,03/02/2021,253 dpi,12/02/2020,Right,0,0,0,0,0,0,,C
+M057_SQ_Bp,BpSQ57,M,Litter #13,6/23/2019,Rep 4 (SQ),Subcutaneous injection,6/22/2020,02/03/2021,226 dpi,12/02/2020,Right,14,4,3,1,7,7,,C
+M058_SQ_Bp,BpSQ58,M,Litter #13,6/23/2019,Rep 4 (SQ),Subcutaneous injection,6/22/2020,02/08/2021,Omit from study,12/02/2020,Right,0,4,15,1,19,19,Possibly went IP during infection,C
+M059_SQ_Bp,BpSQ59,M,Litter #13,6/23/2019,Rep 4 (SQ),Subcutaneous injection,6/22/2020,02/08/2021,Omit from study,12/02/2020,Right,0,13,10,1,22,23,Possibly went IP during infection,C
+F027_SQ_Bp,FBpSQ027,F ,Litter #13,6/23/2019,Rep 4 (SQ),Subcutaneous injection,6/22/2020,11/02/2020,**Found dead in cage**,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,D
+F018_SQ_Bp,FBpSQ018,F,Litter #14,6/25/2019,Rep 1 (SQ),Subcutaneous injection,11/25/2019,9/23/2020,304 dpi,7/22/2020,Right,0,0,0,0,0,0,,D
+F019_SQ_Bp,FBpSQ019,F,Litter #14,6/25/2019,Rep 1 (SQ),Subcutaneous injection,11/25/2019,9/23/2020,304 dpi,7/22/2020,Right,0.3,0,0,0,0,0,,D
+F017_SQ_Bp,FBpSQ017,F,Litter #14,6/25/2019,Rep 1 (SQ),Subcutaneous injection,11/25/2019,9/23/2020,304 dpi,7/22/2020,Right,1,0,1,0,1,1,(wrapped in tissue),D
+M051_SQ_Bp,BpSQ51,M,Litter #14,6/25/2019,Rep 1 (SQ),Subcutaneous injection,11/25/2019,09/03/2020,284 dpi,7/22/2020,Right,12,2,1,1,3,3,(disposed of damaged),D
+M050_SQ_Bp,BpSQ50,M,Litter #14,6/25/2019,Rep 1 (SQ),Subcutaneous injection,11/25/2019,09/03/2020,284 dpi,7/22/2020,Right,17,2,3,4,5,5,(disposed of damaged),C
+M204_IP_Bp,BpIP204,M,Litter #2,3/27/2019,Rep 2 (IP),Intraperitoneal injection,10/28/2019,3/18/2020,142 dpi,,N/A,N/A,18,38,0,56,56,,C
+F010_IP_Bp,FBpIP010,F,Litter #2,3/27/2019,Rep 2 (IP),Intraperitoneal injection,10/28/2019,4/15/2020,170 dpi,N/A,N/A,N/A,37,40,9,68,77,,C
+F009_IP_Bp,FBpIP009,F,Litter #2,3/27/2019,Rep 2 (IP),Intraperitoneal injection,10/28/2019,3/18/2020,142 dpi,N/A,N/A,N/A,65,44,0,109,109,,C
+M203_IP_Bp,BpIP203,M,Litter #2,3/27/2019,Rep 2 (IP),Intraperitoneal injection,10/28/2019,3/18/2020,142 dpi,,N/A,N/A,70,111,5,176,181,,C
+M205_IP_Bp,BpIP205,M,Litter #3,3/27/2019,Rep 3 (IP),Intraperitoneal injection,11/11/2019,4/15/2020,156 dpi,,N/A,N/A,24,29,0,53,53,,C
+F011_IP_Bp,FBpIP011,F,Litter #3,3/27/2019,Rep 3 (IP),Intraperitoneal injection,11/11/2019,4/15/2020,156 dpi,N/A,N/A,N/A,28,41,0,69,69,,C
+F012_IP_Bp,FBpIP012,F,Litter #3,3/27/2019,Rep 3 (IP),Intraperitoneal injection,11/11/2019,4/15/2020,156 dpi,N/A,N/A,N/A,65,80,0,145,145,,C
+M206_IP_Bp,BpIP206,M,Litter #3,3/27/2019,Rep 3 (IP),Intraperitoneal injection,11/11/2019,4/15/2020,156 dpi,,N/A,N/A,71,83,8,146,154,,C
+F006_IP_Bp,FBpIP006,F,Litter #5,3/30/2019,Extra for rep 1 (IP),Intraperitoneal injection,10/07/2019,3/17/2020,162 dpi,N/A,N/A,N/A,18,21,0,39,39,,C
+F007_IP_Bp,FBpIP007,F,Litter #5,3/30/2019,Rep 1 (IP),Intraperitoneal injection,10/22/2019,3/17/2020,147 dpi,N/A,N/A,N/A,29,22,0,51,51,,C
+M200_IP_Bp,BpIP200,M,Litter #5,3/30/2019,Extra for rep 1 (IP),Intraperitoneal injection,10/07/2019,3/17/2020,162 dpi,,N/A,N/A,43,37,0,80,80,,C
+M202_IP_Bp,BpIP202,M,Litter #5,3/30/2019,Rep 1 (IP),Intraperitoneal injection,10/22/2019,3/17/2020,147 dpi,,N/A,N/A,77,55,0,132,132,,C
+F008_IP_Bp,FBpIP008,F,Litter #5,3/30/2019,Rep 1 (IP),Intraperitoneal injection,10/22/2019,3/18/2020,148 dpi,N/A,N/A,N/A,95,116,0,211,211,,C
+M201_IP_Bp,BpIP201,M,Litter #5,3/30/2019,Rep 1 (IP),Intraperitoneal injection,10/22/2019,3/17/2020,147 dpi,,**Exempt from study**,,,,,,,,C
+F020_SQ_Bp, FBpSQ020,F,Litter #7,05/07/2019,Rep 2 (SQ),Subcutaneous injection,12/23/2019,9/28/2020,281 dpi,7/22/2020,Left,5.3,1,2,0,3,3,,D
+F013_SQ_Bp,FBpSQ013,F,Litter #8,05/08/2019,Rep 1 (SQ),Subcutaneous injection,11/25/2019,9/28/2020,309 dpi,7/22/2020,Right,0,1,1,0,2,2,,D
+F016_SQ_Bp,FBpSQ016,F,Litter #8,05/08/2019,Rep 1 (SQ),Subcutaneous injection,11/25/2019,9/21/2020,302 dpi,7/22/2020,Right,0.3,2,3,0,5,5,,D
+F015_SQ_Bp,FBpSQ015,F,Litter #8,05/08/2019,Rep 1 (SQ),Subcutaneous injection,11/25/2019,9/21/2020,302 dpi,7/22/2020,Right,1.3,2,3,0,5,5,,D
+F014_SQ_Bp,FBpSQ014,F,Litter #8,05/08/2019,Rep 1 (SQ),Subcutaneous injection,11/25/2019,06/07/2020,**Found dead in cage**,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,C
+F025_SQ_Bp,FBpSQ025,F ,Litter #9,5/13/2019,Rep 4 (SQ),Subcutaneous injection,6/22/2020,03/02/2021,253 dpi,12/02/2020,Right,0,0,0,0,0,0,,C
+M063_SQ_Bp,BpSQ63,M,Litter #9,5/13/2019,Rep 4 (SQ),Subcutaneous injection,6/22/2020,2/18/2021,241 dpi,12/10/2020,Right,1,0,0,0,0,0,,C
+M061_SQ_Bp,BpSQ61,M,Litter #9,5/13/2019,Rep 4 (SQ),Subcutaneous injection,6/22/2020,2/18/2021,241 dpi,12/10/2020,Right,2,0,0,0,0,0,,C
+M060_SQ_Bp,BpSQ60,M,Litter #9,5/13/2019,Rep 4 (SQ),Subcutaneous injection,6/22/2020,02/03/2021,226 dpi,12/10/2020,Right,6,0,0,0,0,0,,C
+M062_SQ_Bp,BpSQ62,M,Litter #9,5/13/2019,Rep 4 (SQ),Subcutaneous injection,6/22/2020,2/18/2021,241 dpi,12/10/2020,Right,5.3,1,2,0,2,3,,C
