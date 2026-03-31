@@ -1,6 +1,8 @@
 # Gene Regulation in Response to Host Sex and Infection Route in *Brugia pahangi* with New Genome Annotation
 Code used *B. pahangi* Differential Expression Analysis and Genome Annotation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19356197.svg)](https://zenodo.org/doi/10.5281/zenodo.19356197)
+
 ## Table of Contents
 * [*B. pahangi* Genome Annotation](https://github.com/christopher-holt/bpahangi_host_sex_effect?tab=readme-ov-file#b-pahangi-genome-annotation)
     * [Basecall ONT Reads](https://github.com/christopher-holt/bpahangi_host_sex_effect?tab=readme-ov-file#basecall-ont-reads)
